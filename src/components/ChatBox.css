@@ -75,7 +75,7 @@
 
 @media screen and (max-width: 768px) {
   .chat-box:not(.chat-box--collapsed) {
-    height: 90vh;
+    height: 80vh;
     width: 90%;
     max-width: 90%;
     top: 50%;
