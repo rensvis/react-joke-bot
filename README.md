@@ -1,3 +1,7 @@
+# Live demo
+
+Check out the live demo of this project here: [React Joke Bot](https://rensv6.sg-host.com/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
