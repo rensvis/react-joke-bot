@@ -1,0 +1,8 @@
+.chat-message-list {
+  padding: 10px;
+  overflow-y: scroll;
+}
+
+.chat-message-list__bottom-div {
+
+}
